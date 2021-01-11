@@ -19,7 +19,7 @@ include "conn.php";
                     <div class="col-lg-4 m-auto">
                         <form method="post">
                             <div class="input-group-lg mb-2 mt-2">
-                                <input type="text" class="form-control" placeholder="Email address and phone number">
+                                <input type="text" class="form-control" placeholder="Enter The Username">
                             </div>
 
                             <div class="input-group-lg mb-2">
@@ -27,11 +27,9 @@ include "conn.php";
                             </div>
 
                             <h5><a href="home.php"><button type="button" class="btn btn-primary col-lg-12 fw-bold fs-5 mb-2">Log in</button></a></h5>
-                            <a href="forgotpwd.php"><p class="text-primary text-center mt-2">Forgotten password?</p></a>
+                   
                         </form>
-                            <div class="text-center">
-                                <h5><a href="Reg.php"><button type="button" class="btn btn-success col-lg-7 fw-bold fs-6 mb-2 mt-5"><p>Create New Account</button></a></h5>
-                            </div>
+                           
                     </div>
               
             </div>

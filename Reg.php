@@ -39,9 +39,7 @@ include "conn.php";
                             </div>
 
 
-
-
-                            <h5><a href="regsuccessfully.php"><button type="button" class="btn btn-primary col-lg-12 fw-bold fs-5 mb-2">Register</button></a></h5>
+                            <h5><a href="regsuccessfully.php"><button type="button" class="btn btn-primary col-lg-12 fw-bold fs-5 mb-2 mt-5">Register</button></a></h5>
                             
                             
                         </form>
