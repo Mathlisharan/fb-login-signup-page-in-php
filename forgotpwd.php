@@ -18,6 +18,12 @@ include "conn.php";
             <div class="row">
                     <div class="col-lg-4 m-auto">
                         <form method="post">
+
+                        <div class="card-header bg-primary">
+                                    <h1 class="text-center text-white">Forgot Password</h1>
+                                </div>
+
+                        
                             <div class="input-group-lg mb-2 mt-2">
                                 <input type="text" class="form-control" placeholder="Enter The Username">
                             </div>

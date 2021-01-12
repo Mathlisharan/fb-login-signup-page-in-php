@@ -10,6 +10,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h3>Registration Successfully. Kindly Please <a href="login.php">Log In</a></h3>
+    <h3 class="text-primary fs-16 fw-bold">Registration Successfully. Kindly Please <a href="login.php" class="text-dark">Log In</a></h3>
 </body>
 </html>
