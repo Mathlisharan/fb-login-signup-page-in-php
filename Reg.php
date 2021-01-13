@@ -53,7 +53,7 @@ if ($conn->query($sql) === TRUE) {
                                     <h1 class="text-center text-white">Registration Form</h1>
                                 </div>
 
-                            <div class="input-group-lg mb-2">
+                            <div class="input-group-lg mb-2 mt-3">
                                 <input type="text" class="form-control" placeholder="Enter Your Name" name="name" required>
                             </div>
 

@@ -50,7 +50,7 @@ session_start();
                                     <h1 class="text-center text-white">Login Form</h1>
                                 </div>
 
-                            <div class="input-group-lg mb-2 mt-4">
+                            <div class="input-group-lg mb-2 mt-3">
                                 <input type="text" class="form-control" placeholder="Email address and phone number" name="username" required>
                             </div>
 
